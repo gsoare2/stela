@@ -1,7 +1,13 @@
 import spacy
+from utils.functions import cleanPhrase
 
-classification_tags = {
-  'reminder': ['onde', 'qual', 'oque', 'quem']
-}
+nlp = spacy.load('pt')
 
-message = input()
+message = 'a chave está na caixa azul'
+clear_phrase = cleanPhrase(message)
+
+parsed_message = nlp(clear_phrase)
+
+for token in parsed_message:
+  print(token.text, token.dep_)
+  
