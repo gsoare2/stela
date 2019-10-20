@@ -41,3 +41,4 @@ memory = LoadMemory()
 corpus_words = memory
 
 # https://www.linkedin.com/pulse/classificação-de-textos-em-python-luiz-felipe-araujo-nunes
+# https://www.kaggle.com/leandrodoze/examples-from-nltk-book-in-portuguese
