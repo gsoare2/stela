@@ -1,0 +1,7 @@
+https://www.linkedin.com/pulse/classificação-de-textos-em-python-luiz-felipe-araujo-nunes
+https://www.kaggle.com/leandrodoze/examples-from-nltk-book-in-portuguese
+https://www.nltk.org/book/
+https://becominghuman.ai/natural-language-processing-in-python-3-using-nltk-fd0ff4a0da9b
+https://cs.nyu.edu/grishman/jet/guide/PennPOS.html
+https://www.freecodecamp.org/news/an-introduction-to-bag-of-words-and-how-to-code-it-in-python-for-nlp-282e87a9da04/
+https://www.geeksforgeeks.org/bag-of-words-bow-model-in-nlp/
