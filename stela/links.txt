@@ -5,3 +5,9 @@ https://becominghuman.ai/natural-language-processing-in-python-3-using-nltk-fd0f
 https://cs.nyu.edu/grishman/jet/guide/PennPOS.html
 https://www.freecodecamp.org/news/an-introduction-to-bag-of-words-and-how-to-code-it-in-python-for-nlp-282e87a9da04/
 https://www.geeksforgeeks.org/bag-of-words-bow-model-in-nlp/
+https://www.figuradelinguagem.com/gramatica/analise-sintatica/
+https://www.nltk.org/book/ch05.html
+https://www.nltk.org/book/ch08.html
+https://nlpforhackers.io/complete-guide-to-spacy/
+https://heartbeat.fritz.ai/nlp-chronicles-intro-to-spacy-34949f1bc118
+https://leportella.com/pt-br/2018/08/24/mongo-db-python-e-mongoengine.html
