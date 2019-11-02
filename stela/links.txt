@@ -11,3 +11,8 @@ https://www.nltk.org/book/ch08.html
 https://nlpforhackers.io/complete-guide-to-spacy/
 https://heartbeat.fritz.ai/nlp-chronicles-intro-to-spacy-34949f1bc118
 https://leportella.com/pt-br/2018/08/24/mongo-db-python-e-mongoengine.html
+https://playwithml.wordpress.com/2016/06/15/extracting-relations-or-subject-predicate-object-triples/
+https://github.com/erickrf/nlpnet
+https://github.com/kj-lai/SentenceTriplet/blob/master/Multi-Liaison%20Algorithm.ipynb
+https://github.com/codemaniac/sopex/blob/master/sopex/extractor.py
+https://fasttext.cc/docs/en/english-vectors.html

@@ -1,9 +1,15 @@
-import spacy
-from utils.functions import normalize_sentence, get_all
+import nltk
+from utils.functions import tokenize_sentence, separate_verb, get_all, lemmatize_sentence
 
-nlp = spacy.load("pt")
+# sentence = "me lembre que eu tenho uma entrevista hoje"
 
-sentence = 'me lembre que o nome do meu neto é joão'
-message = nlp(sentence)
-normalize_sentence(message, sentence)
-print(get_all())
+sentence = "amanhã tenho exame médico, pode me lembrar disso por favor?"
+# sentence = "tomorrow I have and exam, can you remember me that please?"
+
+# lemmatizated_sentence = lemmatize_sentence(sentence)
+# print(lemmatizated_sentence)
+tagged_sentence = tokenize_sentence(lemmatizated_sentence)
+separate_verb(tagged_sentence, sentence)
+
+for i in get_all():
+  print(i)
