@@ -1,0 +1,3 @@
+[submodule "stela-backend"]
+	path = stela-backend
+	url = https://github.com/gsoare2/stela-backend.git
