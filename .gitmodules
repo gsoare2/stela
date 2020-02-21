@@ -2,6 +2,3 @@
 	path = stela-backend
 	url = https://github.com/gsoare2/stela-backend.git
 	branch = master
-[submodule "stelafrontend"]
-	path = stelafrontend
-	url = https://github.com/gsoare2/stelafrontend.git
